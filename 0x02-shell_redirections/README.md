@@ -1,1 +1,1 @@
-Shell alx redirections
+Shell redirections
