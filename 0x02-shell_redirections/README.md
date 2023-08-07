@@ -1,1 +1,1 @@
-Shell redirections
+this is my readme for thids project
